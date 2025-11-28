@@ -15,7 +15,7 @@ export const projects = [
     image: 'https://via.placeholder.com/600x400',
     technologies: ['React', 'JavaScript', 'Tailwind CSS', 'Vite', 'LocalStorage'],
     github: 'https://github.com/karancoder2004/TODO-APP',
-    demo: 'https://todo-app-fqx9.onrender.com',
+    demo: 'https://todo-app-npen.onrender.com',
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ export const projects = [
     description: 'Personal portfolio showcasing projects, skills, and contact information with smooth animations.',
     image: 'https://via.placeholder.com/600x400',
     technologies: ['React', 'Tailwind CSS', 'Vite', 'Framer Motion'],
-    github: 'https://github.com/karan931091kumar/portfolio',
+    github: 'https://github.com/karancoder2004/my-portfolio',
     demo: 'https://karankumar-portfolio.com',
   },
 ];
