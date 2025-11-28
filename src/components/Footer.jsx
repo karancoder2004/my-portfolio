@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
 
           <div>
-            <h4 className="text-lg font-semibold mb-4 px-1.5">Connect</h4>
+            <h4 className="text-lg font-semibold mb-4">Connect</h4>
             <div className="flex gap-4">
               <a
                 href="https://github.com/karancoder2004"
