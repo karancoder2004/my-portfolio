@@ -24,6 +24,6 @@ export const projects = [
     image: 'https://via.placeholder.com/600x400',
     technologies: ['React', 'Tailwind CSS', 'Vite', 'Framer Motion'],
     github: 'https://github.com/karancoder2004/my-portfolio',
-    demo: 'https://karankumar-portfolio.com',
+    demo: 'https://my-portfolio-aw1j.onrender.com',
   },
 ];
